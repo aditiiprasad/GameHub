@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0c6a8a&text=GameHub&textBg=false&fontColor=ffebef&animation=fadeIn"/>
+ <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0c6a8a&text=GameHub&textBg=false&fontColor=ffebef&animation=fadeIn"/>
 </p>
 
 ```
