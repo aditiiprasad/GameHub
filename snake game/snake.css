@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    
+}
+body {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    height: 100vh;
+    margin: 0;
+    background-color:#6a994e ;
+    
+}
+h1{
+    background-color: #386641;
+    height: 4rem;
+    font-size: 3rem;
+    color: #a7c957;
+}
+
+#gameCanvas {
+    border: 2px solid #03360c;
+    background-color: #f2e8cf;
+}
+.scorebox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+#score {
+    font-size: 24px;
+    margin-top: 10px;
+    color: #f2e8cf;
+    height: 2rem;
+    background-color: #bc4749;
+    border-radius: 15%;
+    width: 7rem;
+}
+
+#gameOverMessage {
+    font-size: 24px;
+    margin-top: 10px;
+    color: #bc4749;
+}
