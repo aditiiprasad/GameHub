@@ -29,17 +29,17 @@ const showWinner = (userWin , userChoice , compChoice) => {
         userScore++;
         userScorePara.innerText = userScore;
         console.log("You win");
-        //  msg.innerText = `You Won ! Your ${compChoice} beats your ${userChoice}`;
-        // msg.style.backgroundColor = "green";
-        // msg.style.color = "white";
+        msg.innerText = `You Won ! Your ${compChoice} beats  ${userChoice}`;
+         msg.style.backgroundColor = "green";
+         msg.style.color = "white";
     }
     else {
         compScore++;
         compScorePara.innerText = compScore;
         console.log("You Lost");
-        // msg.innerText = `You Won ! Your ${compChoice} beats your ${userChoice}`; `;
-        // msg.style.backgroundColor = "red";
-        // msg.style.color = "white";
+        msg.innerText = `You Lost ! ${userChoice} beats your ${compChoice}`;
+        msg.style.backgroundColor = "red";
+        msg.style.color = "white";
     }
 };
 
@@ -51,7 +51,7 @@ const playGame = (userChoice) =>
     console.log("comp choice =" , compChoice);
 
     // DRAW
-     if ( userChoice === compChoice){
+     if ( userChoice === compChoice ){
             drawGame();
         }
     //OTHERS 
