@@ -4,8 +4,13 @@
   }
   
   body {
-    background-color: #548687;
+    background-color: #780000;
     text-align: center;
+  }
+  h1{
+    height: 4rem;
+    font-size: 3rem;
+    background-color: #b0413e;
   }
   
   .container {
@@ -25,6 +30,9 @@
     align-items: center;
     gap: 1.5vmin;
   }
+  .box:hover{
+    cursor:grab;
+  }
   
   .box {
     height: 18vmin;
@@ -34,7 +42,7 @@
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
     color: #b0413e;
-    background-color: #ffffc7;
+    background-color: #fdf0d5;
   }
   
   #reset-btn {
@@ -45,6 +53,9 @@
     border-radius: 1rem;
     border: none;
   }
+  #reset-btn:hover{
+    cursor:grab;
+  }
   
   #new-btn {
     padding: 1rem;
@@ -53,6 +64,9 @@
     color: #fff;
     border-radius: 1rem;
     border: none;
+  }
+  #new-btn:hover{
+    cursor:grab;
   }
   
   #msg {
