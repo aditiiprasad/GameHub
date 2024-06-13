@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #226f54;
+}
+.topbar{
+    height: 100px rem;
+    background-color: white;
+    display: flex;
+
+    
+}
+.icon{
+    background-color: white;
+    height: 100px;
+    width: 8%;
+    background-image: url("images/Game.png");
+    background-size: contain;
+
+}
+.name{
+    background-color: rgb(20, 67, 107);
+    height: 100px;
+    width: 50%;
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: #43291f;
+    font-family: fantasy;
+}
+.contact{
+    height: 100px;
+    width:42%;
+    background-color: rgb(48, 9, 9);   
+}
+/* content  */
+.content{
+    display: flex;
+    height: 50rem;
+    justify-content: space-evenly;
+    margin-top: 3rem;
+    background-color: transparent
+}
+.game{
+    height: 15rem;
+    width: 15rem;
+    background-color: rgb(51, 35, 6);
+    display: flex;
+    align-items: end;
+    border-radius: 50%;
+    
+}
+.gname{
+    height: 3rem;
+    background-color: #da2c38;
+    width: 100%;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.gname a {
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #f4f0bb;
+    background-color: transparent;
+    
+}
+#snake{
+    background-image: url("images/snake.png");
+    background-size: cover;
+}
+#TTT{
+    background-image: url("images/ttt.png");
+    background-size: cover;
+}
+#RPS{
+    background-image: url("images/RPS.jpeg");
+    background-size: cover;
+}
+h3{
+    background-color: transparent;
+}
