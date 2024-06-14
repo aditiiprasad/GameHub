@@ -39,49 +39,45 @@
 /* content  */
 .content{
     display: flex;
-    height: 50rem;
-    justify-content: space-evenly;
-    margin-top: 3rem;
-    background-color: transparent
-}
-.game{
     height: 15rem;
-    width: 15rem;
-    background-color: rgb(51, 35, 6);
+    justify-content: space-evenly; 
+    margin-top: 3rem;
+    background-color:transparent;
+}
+.content a{
+    background-color: rgb(83, 12, 23);
+    height: 15rem;
+    width: 20%;
+    
+    box-shadow: 5px 5px 5px #292222;
     display: flex;
     align-items: end;
-    border-radius: 50%;
-    
+    border-radius: 8rem;
+    border: 0.3rem solid brown;
 }
-.gname{
+#snakeg{
+    background-image: url("images/snake.png");
+    background-size: cover;
+}
+#ttt{
+    background-image: url("images/ttt.png");
+    background-size: cover;
+}
+#rps{
+    background-image: url("images/RPS.jpeg");
+    background-size: cover;
+}
+
+.Gname{
+    background-color: brown;
     height: 3rem;
-    background-color: #da2c38;
     width: 100%;
     border-radius: 2rem;
     display: flex;
     align-items: center;
     justify-content: center;
-
-}
-.gname a {
-    font-size: 20px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: #f4f0bb;
-    background-color: transparent;
-    
-}
-#snake{
-    background-image: url("images/snake.png");
-    background-size: cover;
-}
-#TTT{
-    background-image: url("images/ttt.png");
-    background-size: cover;
-}
-#RPS{
-    background-image: url("images/RPS.jpeg");
-    background-size: cover;
-}
-h3{
-    background-color: transparent;
+    font-size: 1.5rem;
+    color: beige;
+    font-family: fantasy;
+    text-decoration: none;
 }
