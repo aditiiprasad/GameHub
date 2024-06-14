@@ -22,7 +22,7 @@
 .name{
     background-color: rgb(20, 67, 107);
     height: 100px;
-    width: 50%;
+    width: 82%;
     font-size: 4rem;
     display: flex;
     align-items: center;
@@ -31,11 +31,9 @@
     color: #43291f;
     font-family: fantasy;
 }
-.contact{
-    height: 100px;
-    width:42%;
-    background-color: rgb(48, 9, 9);   
-}
+
+
+
 /* content  */
 .content{
     display: flex;
@@ -67,7 +65,10 @@
     background-image: url("images/RPS.jpeg");
     background-size: cover;
 }
-
+#wam{
+    background-image: url("images/wam.jpeg");
+    background-size: cover;  
+}
 .Gname{
     background-color: brown;
     height: 3rem;
