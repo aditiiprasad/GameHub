@@ -3,7 +3,7 @@
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0c6a8a&text=GameHub&textBg=false&fontColor=ffebef&animation=fadeIn"/>
 </p>
-<img src="images\Game.png" height="600" />   <b>Click this icon to view Project
+<a href="https://aditiiprasad.github.io/GameHub/"><img src="images\Game.png" height="400" />  </a> <b>Click this icon to view Project<b>
 
 ```
 Welcome to GameHub, your go-to site for fun and addictive mini-games to pass the time.
