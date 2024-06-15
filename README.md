@@ -16,6 +16,8 @@ Control a snake to eat food and grow longer, but avoid running into walls or the
 
 ```
 
+<a href="https://aditiiprasad.github.io/GameHub/snake%20game/snake.html"><img src="images/s.png" height="200" />  </a>
+
 # 2. Tic Tac Toe
  
 ```
@@ -23,6 +25,8 @@ Control a snake to eat food and grow longer, but avoid running into walls or the
 A classic two-player game where players take turns marking a 3x3 grid with Xs and Os. The first player to get three in a row wins.
 
 ```
+<a href="https://aditiiprasad.github.io/GameHub/TTT/TTT.html"><img src="images/t.png" height="200" />  </a>
+
 
 # 3. Rock Paper Scisssors
  
@@ -30,6 +34,8 @@ A classic two-player game where players take turns marking a 3x3 grid with Xs an
 A simple game where players choose rock, paper, or scissors and play against the computer to see who wins.
 
  ```
+ <a href="https://aditiiprasad.github.io/GameHub/RPS/RPS.html"><img src="images/r.png" height="200" />  </a>
+
 
 # 4. Whack a mole
 
@@ -38,3 +44,4 @@ A simple game where players choose rock, paper, or scissors and play against the
 Moles pop up randomly from holes, and players must click on them to score points before they disappear.
 
 ```
+<a href="https://aditiiprasad.github.io/GameHub/WAM/wam.html"><img src="images/w.png" height="200" />  </a>
