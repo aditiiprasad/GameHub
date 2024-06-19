@@ -47,7 +47,7 @@ Moles pop up randomly from holes, and players must click on them to score points
 <a href="https://aditiiprasad.github.io/GameHub/WAM/wam.html"><img src="images/w.png" height="200" />  </a>
 
 
-# WEB DEV DIARIES (31/05/2024)
+# WEB DEV DIARIES (14/06/2024)
 <h4>
  1. Made a mini games website after learning JAVASCRIPT. This is my first project using JS.
  
